@@ -39,12 +39,12 @@
       - `sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-5 60 --slave /usr/bin/g++ g++ /usr/bin/g++-5`
       - `sudo update-alternatives --set gcc "/usr/bin/gcc-5"`
 6. Create the storing folder for the pictures:
-   - `mkdir ~/Documents/Cameras`
-   - `mkdir ~/Documents/Cameras/ply && mkdir ~/Documents/Cameras/pictures`
+   - `sudo mkdir ~/Documents/Cameras`
+   - `sudo mkdir ~/Documents/Cameras/ply && mkdir ~/Documents/Cameras/pictures`
 7. Create the build folder:
-   `mkdir build && cd build`
+   `sudo mkdir build && cd build`
 8. Run Cmake:
-   `cmake ../ -DBUILD_EXAMPLES=true`
+   `sudo cmake ../ -DBUILD_EXAMPLES=true`
 9. Compile the software (this may take some times):
    `sudo make uninstall && make clean && make -j4 && sudo make install`
 
