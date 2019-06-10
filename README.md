@@ -21,7 +21,7 @@
 1. Go to the software repository: `cd ~/RealSense-Multi-Saving`
 2. Install some package: 
    - `sudo apt-get install git libssl-dev libusb-1.0-0-dev pkg-config libgtk-3-dev`
-   - `sudo apt-get install libglfw3-dev`
+   - `sudo apt-get install libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev`
 3. Install permissions:
    - `sudo chmod 777 scripts/setup_udev_rules.sh`
    - `./scripts/setup_udev_rules.sh`
