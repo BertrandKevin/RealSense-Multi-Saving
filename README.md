@@ -1,6 +1,6 @@
 # RealSense Multi-Saving on an UpSquared with Ubuntu 18 LTS
 ## Information
-__*For this project, you need to create and use a username "upsquared"*__
+__*For this project, you need to create and use a username "upsquared".*__
 
 ## Dowloading the software
 1. Navigate to the "Home" folder: `cd ~/`
