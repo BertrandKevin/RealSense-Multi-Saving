@@ -16,7 +16,9 @@ __*For this project, you need to create and use a username "upsquared"*__
    - `sudo apt-get install librealsense2-dev`
    - `sudo apt-get install librealsense2-dbg`
    - `sudo apt-get install cmake`
-4. Final, update/upgrade the Up : `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`
+4. Add permissions to the "RealSense-Multi-Saving" folder: `sudo chmod 777 RealSense-Multi-Saving/`
+5. Final, update/upgrade the Up : `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`
+5. Final, update/upgrade the Up : `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`
 
 ## Installation of the software
 1. Go to the software repository: `cd ~/RealSense-Multi-Saving`
