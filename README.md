@@ -18,7 +18,7 @@
 4. Final, update/upgrade the Up : `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`
 
 ## Installation of the software
-1. Go to the software repository: `cd ~/RealSense-Multi-Saving-master`
+1. Go to the software repository: `cd ~/RealSense-Multi-Saving`
 2. Install some package: 
    - `sudo apt-get install git libssl-dev libusb-1.0-0-dev pkg-config libgtk-3-dev`
    - `sudo apt-get install libglfw3-dev`
