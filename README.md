@@ -57,7 +57,7 @@ To start the software, you have to open a new Terminal Window and enter:
 If there is at least a camera connected, the software will start and save all pictures/data.
 
 ## How to see the pictures/data?
-To see the pictures and the data, you have to go to your Doxuments and then you will find a folder named "Cameras". In this folder, you will find 2 other folder:
+To see the pictures and the data, you have to go to your Documents and then you will find a folder named "Cameras". In this folder, you will find 2 other folder:
 
    -__*ply*__: In this folder, you will find all 3D images 
    
