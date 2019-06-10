@@ -12,6 +12,8 @@
 3. Then, you have to install some librairies:
    - `sudo apt-get install librealsense2-dkms`
    - `sudo apt-get install librealsense2-utils`
+   - `sudo apt-get install librealsense2-dev`
+   - `sudo apt-get install librealsense2-dbg`
    - `sudo apt-get install cmake`
 4. Final, update/upgrade the Up : `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`
 
