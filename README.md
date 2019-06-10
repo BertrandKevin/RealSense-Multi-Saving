@@ -2,9 +2,9 @@
 ## Information
 
 ## Dowloading the software
-1. Download the repository "RealSense-Multi-Saving-master" on the UpSquared.
-2. Unzip the folder if it's not done yet.
-3. Transfer this repository to the "Home" folder.
+1. Navigate to the "Home" folder: `cd ~/`
+2. Intall the git librairy: `sudo apt-get install git`
+2. Download the repository "RealSense-Multi-Saving-master" on the UpSquared: `sudo git clone https://github.com/BertrandKevin/RealSense-Multi-Saving.git`
 
 ## Configuration of the UpSquared
 1. You need to register the server's public key: `sudo apt-key adv --keyserver keys.gnupg.net --recv-key C8B3A55A6F3EFCDE || sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-key C8B3A55A6F3EFCDE`
