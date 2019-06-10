@@ -172,13 +172,13 @@ std::string createDirectory(std::string dateTime)
 	{
 		if(tmp == 0)
 		{
-			directoryPath = "~/Documents/Cameras/pictures/";
+			directoryPath = "/home/upsquared/Documents/Cameras/pictures/";
 			directoryPath += dateTime;
 			
 		}
 		else
 		{
-			directoryPath = "~/Documents/Cameras/ply/";
+			directoryPath = "/home/upsquared/Documents/Cameras/ply/";
 			directoryPath += dateTime;
 		}
 		std::cout << directoryPath << std::endl;
@@ -190,7 +190,7 @@ std::string createDirectory(std::string dateTime)
 		}
 	}
 
-	directoryPath = "~/Documents/Cameras/"; 
+	directoryPath = "/home/upsquared/Documents/Cameras/"; 
 
 	return directoryPath;
 }
