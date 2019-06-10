@@ -46,7 +46,7 @@
 8. Run Cmake:
    `sudo cmake ../ -DBUILD_EXAMPLES=true`
 9. Compile the software (this may take some times):
-   `sudo make uninstall && make clean && make -j4 && sudo make install`
+   `sudo  make -j4 && sudo make install`
 
 ## Starting the software
 To start the software, you have to open a new Terminal Window and enter:
