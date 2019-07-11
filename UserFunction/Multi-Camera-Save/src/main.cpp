@@ -264,7 +264,6 @@ void getImages( std::string directoryPath, std::string directoryTime, std::vecto
 			timeframes.push_back(currentTime);
 
 			// Save camera's number
-			std::cout << "Image Saved in vector" << std::endl;
 			numCameras.push_back(j+1);
 
 			// Save time
