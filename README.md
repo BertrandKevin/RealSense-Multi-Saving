@@ -43,7 +43,7 @@ __*For this project, you need to create and use a username "upsquared".*__
       - `sudo update-alternatives --set gcc "/usr/bin/gcc-5"`
 6. Create the storing folder for the pictures:
    - `sudo mkdir ~/Documents/Cameras`
-   - `sudo mkdir ~/Documents/Cameras/ply && sudomkdir ~/Documents/Cameras/pictures`
+   - `sudo mkdir ~/Documents/Cameras/ply && sudo mkdir ~/Documents/Cameras/pictures`
 7. Create the build folder:
    `sudo mkdir build && cd build`
 8. Run Cmake:
